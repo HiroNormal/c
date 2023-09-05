@@ -12,6 +12,7 @@ int main ()
     double hypotanuse;
     bool x = true;
     bool y;
+    bool z;
 
 
 
