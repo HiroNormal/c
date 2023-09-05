@@ -11,8 +11,7 @@ int main ()
     double a;
     double hypotanuse;
     bool x = true;
-
-
+    bool y;
 
     while(x){
         
